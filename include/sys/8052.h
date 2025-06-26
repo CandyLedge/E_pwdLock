@@ -29,7 +29,7 @@
 #ifndef REG8052_H
 #define REG8052_H
 
-#include <8051.h>     /* load definitions for the 8051 core */
+#include "8051.h"     /* load definitions for the 8051 core */
 
 #ifdef REG8051_H
 #undef REG8051_H

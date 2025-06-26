@@ -29,9 +29,6 @@
 #ifndef REG51_H
 #define REG51_H
 
-#warning This file (reg51.h) is obsolete, use one appropriate for your harware!
-#warning Falling back to include <8052.h>
-
-#include <8052.h>
+#include "8052.h"
 
 #endif
